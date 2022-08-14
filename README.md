@@ -16,7 +16,7 @@ class Ishan:
             "learning": ["djs", "Django"]
         }
 
-        self.works = ['Token Grabber', 'Website', 'Server Manager', 'Community Manager',  'etc...']
+        self.works = ['Discord Bots', 'Website', 'Server Manager', 'Community Manager',  'etc...']
     
     def social_media(self):
         self.discord = "@Ishannnnn#1337"
