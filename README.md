@@ -1,3 +1,4 @@
+```js
 from Github import GithubReadme
 
 class Ishan:
@@ -25,3 +26,4 @@ class Ishan:
 
 if __name__ == "__main__":
     readme = GithubReadme.create(Ishan)
+```
