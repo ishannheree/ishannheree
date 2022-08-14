@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @ishannheree
-- 👀 I’m interested in python and javascript
-- 🌱 I’m currently learning discord.py and discord.js
-- 💞️ I’m A bot devoloper with 3 Verfied Bots
-- 📫 How to reach me ... - come on my server /flanker
+from Github import GithubReadme
 
-<!---
-ishannheree/ishannheree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class Ishan:
+    def __init__(self):
+        self.name = "Ishan"
+        self.knowas = "Legend"
+        self.age = "17"
+        self.location = "Bangladesh"
+        self.work = "Developer"
+        self.system = "Windows 11, x64"
+
+    def skills(self):
+        self.languages = {
+            "main": ["Python", "Javascript", "Node.js", , "HTML/CSS/JS"],
+            "learning": ["djs", "Django"]
+        }
+
+        self.works = ['Token Grabber', 'Website', 'Server Manager', 'Community Manager',  'etc...']
+    
+    def social_media(self):
+        self.discord = "@Ishannnnn#1337 "
+        self.instagram = "_ishannnnn12"
+  
+
+
+if __name__ == "__main__":
+    readme = GithubReadme.create(Ishan)
