@@ -19,7 +19,7 @@ class Ishan:
         self.works = ['Token Grabber', 'Website', 'Server Manager', 'Community Manager',  'etc...']
     
     def social_media(self):
-        self.discord = "@Ishannnnn#1337 "
+        self.discord = "@Ishannnnn#1337"
         self.instagram = "_ishannnnn12"
   
 
