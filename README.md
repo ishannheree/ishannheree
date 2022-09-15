@@ -13,13 +13,13 @@ class Ishan:
     def skills(self):
         self.languages = {
             "main": ["Python", "Javascript", "Node.js", , "HTML/CSS/JS"],
-            "learning": ["djs", "Django"]
+            "learning": ["Selenium", "Django"]
         }
 
         self.works = ['Discord Bots', 'Website', 'Server Manager', 'Community Manager',  'etc...']
     
     def social_media(self):
-        self.discord = "@Ishannnn#6266"
+        self.discord = "@Ishannnn#1337"
         self.instagram = "_ishannnnn12"
   
 
