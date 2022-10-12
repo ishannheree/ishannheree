@@ -1,29 +1,12 @@
-```js
+```py
 from Github import GithubReadme
-
-class Ishan:
-    def __init__(self):
-        self.name = "Ishan"
-        self.knowas = "Legend"
-        self.age = "17"
-        self.location = "Bangladesh"
-        self.work = "Developer"
-        self.system = "Windows 11, x64"
-
-    def skills(self):
-        self.languages = {
-            "main": ["Python", "Javascript", "Node.js", , "HTML/CSS/JS"],
-            "learning": ["Selenium", "Django"]
-        }
-
-        self.works = ['Discord Bots', 'Website', 'Server Manager', 'Community Manager',  'etc...']
-    
-    def social_media(self):
-        self.discord = "@Ishannnn#1337"
-        self.instagram = "_ishannnnn12"
-  
+import error, bio-data
+bierror = error.findsout('not-interested', bio-data.get(ishan)) 
 
 
-if __name__ == "__main__":
-    readme = GithubReadme.create(Ishan)
+if bierror == true:
+	print('error can't show results')
+ else:
+	print('python programmer - dpy, requests ')
+	print('insta/simplyishan')
 ```
