@@ -1,3 +1,5 @@
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/858904514286583808)](https://discord.com/users/728538577520295996)
 ```py
 from Github import GithubReadme
 import error, bio-data
